@@ -1,5 +1,13 @@
 import java.text.NumberFormat;
 
+/**
+ *
+ * @author Trever Hartman
+ * @author crazyne55
+ *
+ * @since Version 1.0
+ *
+ */
 public class PricelessScript {
     /**
      * Proof that MasterCard marketing is in your DNA
